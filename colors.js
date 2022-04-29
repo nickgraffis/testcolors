@@ -122,3 +122,5 @@ const shade = (color, saturationFactor, lightFactor) => {
     }
     return final
   }
+
+  module.exports = shade
